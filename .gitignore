@@ -2,6 +2,8 @@
 db/*.sqlite3*
 log/*.log
 *.log
+/config/database.yml
+/config/database.yaml
 /tmp/
 doc/
 *.swp
